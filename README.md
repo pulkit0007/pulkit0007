@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulkit0007
 - 👀 I’m interested in automating using machine learning
-- 🌱 I’m currently in final year BTech
+- 🌱 I’m currently looking for full-time opportunities 
 - 💞️ I’m looking to collaborate on OpenCV and NLP based projects
 - 📫 Mail me @ plktmehta10@gmail.com
 
